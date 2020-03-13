@@ -5,7 +5,7 @@ COBOLハッカソン2020で「こんな時だから、いつも笑顔で」が�
 
 # 必要機材
 
-* [ドローン「TELLO」](https://www.ryzerobotics.com/jp/tello) 1~2台
+* [ドローン「Ryze TELLO」](https://www.ryzerobotics.com/jp/tello) 1~2台
 * [Raspberry Pi](https://www.raspberrypi.org/) 1~2台
 * AWS EC2インスタンス
 
@@ -82,7 +82,7 @@ cd /home/pi/drone
 make dronelib
 make captest
 ```
-(各種ソースコード中のWebサーバのIPが書かれている箇所を適当に書き換えてからコンパイルする)
+(各種ソースコード中のWebサーバのIPアドレスが書かれている箇所を適当に書き換えてからコンパイルする)
 
 # 使い方
 
